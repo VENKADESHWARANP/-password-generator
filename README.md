@@ -1,0 +1,2 @@
+# -password-generator
+pass gen
